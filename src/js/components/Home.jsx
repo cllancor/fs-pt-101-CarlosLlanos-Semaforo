@@ -1,4 +1,5 @@
 import React from "react";
+import TrafficLight from "./TarfficLight.jsx";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
